@@ -2,3 +2,4 @@
 # or its JSON says "ok": false. Deep health lists which dependency failed.
 demo|https://188-245-247-126.sslip.io/healthz/deep
 web|https://magicgrowth-site.vercel.app/
+test-alarm|https://188-245-247-126.sslip.io/healthz/neexistuje
