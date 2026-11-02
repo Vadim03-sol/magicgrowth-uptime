@@ -1,5 +1,6 @@
 # One check per line: name|url. A check fails when the URL does not answer 200
 # or its JSON says "ok": false. Deep health lists which dependency failed.
 demo|https://136-119-37-127.sslip.io/healthz/deep
-calls|https://188-245-247-126.sslip.io/healthz
+calls|https://calls.magicgrowth.cz/healthz
+crm|https://crm.magicgrowth.cz/healthz
 web|https://magicgrowth-site.vercel.app/
